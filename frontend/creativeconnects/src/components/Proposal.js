@@ -16,7 +16,7 @@ const Proposal = () => {
         <div class="container">
         <div class="column">
             <h2 onClick={toggleProposal} class="ProjectProposalHeading">
-                    ProjectProposal 
+                    ProjectProposal s
                 </h2>
         </div>
         <div class="divider"></div>
